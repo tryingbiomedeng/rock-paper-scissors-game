@@ -8,7 +8,7 @@ Begin by **forking** this repository and **cloning** it onto your machine.
 
 ## Exercises
 
-To begin an exercise, switch to the relevant branch and read `exercise.md` for instructions.
+To begin an exercise, switch to the relevant branch and read [`exercise.md`](./exercise.md) for instructions.
 
 | Exercise | Branch |
 | --- | --- |
