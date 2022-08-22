@@ -1,6 +1,6 @@
-# Intro to Programming
+# Programming fundamentals
 
-This repository contains instructions and (where applicable) start code for exercises in the **Intro to Programming** module.
+This repository contains instructions and (where applicable) start code for exercises in the **Programming fundamentals** module.
 
 ## Set-up
 
