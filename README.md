@@ -15,4 +15,5 @@ To begin an exercise, switch to the relevant branch and read [`exercise.md`](./e
 | Pseudocode | `pseudocode` |
 | Scripts & libraries | `scripts-and-libraries` |
 | Passing tests | `passing-tests` |
+| Loops and Conditionals | `loops-and-conditionals` |
 | Making a game | `making-a-game` |
