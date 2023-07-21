@@ -59,7 +59,6 @@ function playGame() {
       playGame(); // ask again
     }
   });
-
 }
 
 //Scores function
