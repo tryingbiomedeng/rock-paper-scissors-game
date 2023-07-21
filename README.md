@@ -1,19 +1,9 @@
-# Programming fundamentals
+## APP INFO
 
-This repository contains instructions and (where applicable) start code for exercises in the **Programming fundamentals** module.
+Terminal based Rock, paper, scissors game
 
-## Set-up
+The game allows the user to play repetitive rounds of rock, paper, scissors against the computer. The computer moves are random.
 
-Begin by **forking** this repository and **cloning** it onto your machine.
+When starting the game you will be prompted to input either - rock, paper or scissors. The winner of the round is then determined and displayed. After each round the players scores will be displayed and the player will be prompted to choose to play another round or not.
 
-## Exercises
-
-To begin an exercise, switch to the relevant branch and read [`exercise.md`](./exercise.md) for instructions.
-
-| Exercise | Branch |
-| --- | --- |
-| Pseudocode | `pseudocode` |
-| Scripts & libraries | `scripts-and-libraries` |
-| Passing tests | `passing-tests` |
-| Loops and Conditionals | `loops-and-conditionals` |
-| Making a game | `making-a-game` |
+To run the program run *install npm* followed by *node index.js*
